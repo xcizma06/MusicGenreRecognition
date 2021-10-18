@@ -1,5 +1,9 @@
+/predict
+/test
+/train
 /dataset/*/*
 !/dataset/blues/blues.00000.wav
 /spectrograms/*/*
 !/spectrograms/blues/blues.00000.png
+/spectrograms5s
 .DS_Store
